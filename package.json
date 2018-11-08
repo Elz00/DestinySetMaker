@@ -1,0 +1,16 @@
+{
+  "name": "setmaker",
+  "version": "1.0.0",
+  "description": "Web App that connects to the Destiny 2 API in order to create set of weapons and armor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laurent Lemire",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  }
+}
